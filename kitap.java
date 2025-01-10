@@ -9,8 +9,8 @@ public class kitap {
 public kitap (String ad, String yazar, int sayfasayisi){
     this.ad = ad;
     this.yazar = yazar;
-    this.sayfasayisi = sayfasayisi;// yapici method(nesne olusturuyoruz)
-    this.musait = true;// parametre bolumunde boolean neden yazmadik
+    this.sayfasayisi = sayfasayisi;// yapici methodu kullanma sebebimiz "nesne olusturuyoruz."
+    this.musait = true;
 
 
  }
